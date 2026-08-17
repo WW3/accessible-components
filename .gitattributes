@@ -1,0 +1,7 @@
+# This repo is a generated payload: every file is copied from
+# my-ev-common-ui's dist/ by its /publish-accessible-components command.
+# Keep the working copy byte-identical to that build output, so a publish
+# can be verified by hashing the served file against the local one, and so
+# Windows checkouts stop warning about an LF/CRLF rewrite on every publish.
+# text=auto rather than text: a binary asset added later is left alone.
+* text=auto eol=lf
